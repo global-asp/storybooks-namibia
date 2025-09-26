@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storybooks Namibia</title>
-    <description>Storybooks Namibia is designed specifically for teachers, parents, and community members and makes 40 stories from the African Storybook available with text and audio in the most widely spoken languages of Namibia.
+    <description>Storybooks Namibia is designed specifically for teachers, parents, and community members and makes 46 stories from the African Storybook available with text and audio in the most widely spoken languages of Namibia.
 </description>
     <link>https://storybooksnamibia.net//</link>
     <atom:link href="https://storybooksnamibia.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Sep 2025 16:42:13 -0700</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2025 16:42:13 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 14:13:11 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 14:13:11 -0700</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
   </channel>
